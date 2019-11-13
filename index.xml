@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misol Kim</title>
+    <link>https://misolkim.github.io/</link>
+    <description>Recent content on Misol Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://misolkim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://misolkim.github.io/cv/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://misolkim.github.io/cv/</guid>
+      <description>I have over 1 year experience designing, developing, integrating, and supporting corporate tools and applications,including content management, database architecture, and e-commerce from Sage9 Pte Ltd.I have in-depth understanding of business and IT requirements to streamline administration and internal processes,resulting in enhanced automation and operational efficiency. RESEARCH INTERESTS
+Front-End Development, Back-End Development, Application Development, Information Systems ManagementEDUCATION
+Bachelor (MurdochUniversity of Science)Murdoch, Perth, AustraliaB.</description>
+    </item>
+    
+  </channel>
+</rss>
